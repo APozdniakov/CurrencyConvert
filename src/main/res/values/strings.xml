@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string-array name="currencies">
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>UAH</item>
+        <item>JPY</item>
+    </string-array>
+    <string name="hint">Currency amount</string>
+    <string name="buttonText">Convert</string>
+</resources>
